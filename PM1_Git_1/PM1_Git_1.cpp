@@ -5,7 +5,7 @@
 
 int main()
 {
-    std::cout << " VisualStudio!\n";
+    std::cout << "Hello World! VisualStudio!　A\n";
 
     std::cout << "新規ブランチを追加!\n";
 }
